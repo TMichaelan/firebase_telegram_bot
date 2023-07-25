@@ -1,0 +1,3 @@
+pip install python-telegram-bot firebase_admin
+pip install google-cloud-firestore
+pip install schedule
